@@ -24,12 +24,8 @@ To run the program, simply navigate to the SampleClassifier directory in the ter
 
 Once the program is open, simply drag and drop any drum one-shot .wav file into the upper box, and the prediction will automatically appear in the lower box. Continue dragging and dropping new samples for as long as you want, and the program will automatically replace old predictions with new ones.
 
-See the demo video here: 
-
-![Demo Video](demo_video.mov)
+See the [demo video](demo_video.mov) for more information.
 
 ## Legal disclaimer
 
 The samples used in the training of the model are purchased from [Splice.com](https://splice.com/) and are not licensed for distribution. They are included in this repository only for demonstration and should not be downloaded for use for any purpose.
-
-Actually these aren't really included.
