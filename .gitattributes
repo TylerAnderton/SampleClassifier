@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+model_training/trained_hypermodel/saved_weights.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model_training/trained_hypermodel/variables/** filter=lfs diff=lfs merge=lfs -text
+model_training/tmp/** filter=lfs diff=lfs merge=lfs -text
